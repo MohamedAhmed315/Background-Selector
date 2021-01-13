@@ -1,0 +1,10 @@
+h1 {
+    letter-spacing: 10px;
+    color: rgba(22, 16, 15, 0.5);
+}
+
+body {
+    text-align: center;
+    letter-spacing: 10px;
+    background: linear-gradient(to right, #c9c96b, #866369);
+}
